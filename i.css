@@ -1,0 +1,32 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    
+}
+.item{
+    background-color: aqua;
+    width:150px;
+    height:200px;
+    margin:20px;
+}
+#clock {
+    color: #66ff99;
+    font-size: 56px;
+    text-align: center;
+    
+  }
+  .form
+{
+    height: 200px;
+    line-height: 10px;
+    display: flex;
+    flex-flow: column wrap;
+}
+form
+{
+    height: 200px;
+    display: flex;
+    flex-flow: column wrap;
+    width: 170px;
+    gap: 15px;
+}
